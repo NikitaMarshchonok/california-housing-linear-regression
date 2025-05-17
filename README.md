@@ -21,3 +21,11 @@ The goal is to predict housing prices based on features such as population, inco
 - Simple linear trend visible in scatter plot
 
 ## 📁 Structure
+project -> 
+├── notebook.ipynb 
+├── README.md 
+└── requirements.txt
+
+
+
+https://www.linkedin.com/in/nikita-marshchonok
